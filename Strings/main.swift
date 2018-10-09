@@ -119,3 +119,4 @@ print("Hello, World!")
 //for _ in 0...10 {
 //    print (snake, terminator:"")
 //}
+Var sweater = "blue , green"
